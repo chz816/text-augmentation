@@ -70,7 +70,7 @@ Produce new sentences while preserving the semantic features of the original tex
 
 ##### Context-Aware Augmentation
 
-- **Definition:** instead of the pre-defined synonyms, use words that are predicted by a langueg model given the context surrounding the original words to be augmented
+- **Definition:** instead of the pre-defined synonyms, use words that are predicted by a language model given the context surrounding the original words to be augmented
 - **Literatures:**
   - Kobayashi, Sosuke. "Contextual augmentation: Data augmentation by words with paradigmatic relations." *arXiv preprint arXiv:1805.06201* (2018).
 
